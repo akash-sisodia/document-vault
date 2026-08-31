@@ -1,0 +1,2 @@
+// Injects keys from the local (gitignored) Secrets.xcconfig into Info.plist.
+#include? "Secrets.xcconfig"
